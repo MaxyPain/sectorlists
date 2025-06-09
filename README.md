@@ -5,7 +5,7 @@ A Python utility to fetch live data from NSE India.
 ## Installation
 
 ```bash
-pip install nseutility
+
 
 ---
 
