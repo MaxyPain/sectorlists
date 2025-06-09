@@ -1,0 +1,21 @@
+:contentReference[oaicite:32]{index=32}
+
+---
+
+## 🔧 Step 4: Build and Install the Package
+
+:contentReference[oaicite:34]{index=34}:contentReference[oaicite:36]{index=36}
+
+```bash
+pip install .
+
+---
+
+### 🔹 `.gitignore`
+
+```gitignore
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
