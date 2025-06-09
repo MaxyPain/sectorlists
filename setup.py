@@ -9,12 +9,12 @@ setup(
         'requests',
         'beautifulsoup4'
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Max',
+    author_email='maxpain@example.com',
     description='A Python utility to fetch live data from NSE India',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/nseutility',
+    url='https://github.com/MaxPain/nseutility',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
